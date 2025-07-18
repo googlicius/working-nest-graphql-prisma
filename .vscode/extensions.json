@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "prisma.prisma",
+    "graphql.vscode-graphql",
+    "firsttris.vscode-jest-runner",
+    "ckolkman.vscode-postgres"
+  ]
+}
